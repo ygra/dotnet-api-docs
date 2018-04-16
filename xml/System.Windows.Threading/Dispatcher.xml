@@ -756,7 +756,7 @@
           <format type="text/markdown"><![CDATA[  
   
 ## Remarks  
- The <xref:System.Windows.Threading.DispatcherHooks> class provides additional event information about the <xref:System.Windows.Threading.Dispatcher>, such as when the <xref:System.Windows.Threading.Dispatcher> is inactive or when an operation has competed.  
+ The <xref:System.Windows.Threading.DispatcherHooks> class provides additional event information about the <xref:System.Windows.Threading.Dispatcher>, such as when the <xref:System.Windows.Threading.Dispatcher> is inactive or when an operation has completed.  
   
  ]]></format>
         </remarks>
